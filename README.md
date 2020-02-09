@@ -1,4 +1,4 @@
-# Simple application with node to manage an array of users
+# Simple application with NodeJS to manage an array of users
 
 ## How to run
 
