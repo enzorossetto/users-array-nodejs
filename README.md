@@ -22,3 +22,7 @@ _I recomend you to use [Yarn](https://classic.yarnpkg.com/en/) to run the projec
       
 - `PUT /users/:index`: update the name of the user in the given index. Pass the name like the `POST` method as a JSON inside the request body;
 - `DELETE /users/:index`: removes the user in the given index.
+
+## License
+
+This prokect is under MIT license. For check the file [LICENSE](https://github.com/enzorossetto/users-array-nodejs/blob/master/LICENSE) for more information.
