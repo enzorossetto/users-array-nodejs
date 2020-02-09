@@ -25,4 +25,4 @@ _I recomend you to use [Yarn](https://classic.yarnpkg.com/en/) to run the projec
 
 ## License
 
-This prokect is under MIT license. For check the file [LICENSE](https://github.com/enzorossetto/users-array-nodejs/blob/master/LICENSE) for more information.
+This project is under MIT license. For check the file [LICENSE](https://github.com/enzorossetto/users-array-nodejs/blob/master/LICENSE) for more information.
